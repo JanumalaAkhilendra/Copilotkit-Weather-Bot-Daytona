@@ -41,7 +41,7 @@ CopilotKit Weather Bot is your personal weather assistant, designed to keep you 
 
 > **Note:**  
 > Learn how to integrate Daytona into your Next.js app by reading this article:  
-> [Integrate Daytona in Your Next.js App]()
+> [Integrate Daytona in Your Next.js App](https://dev.to/janumala_akhilendra/daytona-your-projects-new-best-friend-4k5f)
 
 ---
 
